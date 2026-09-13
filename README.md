@@ -1,4 +1,4 @@
-# 🧪 EDEN — Estudo e Descoberta de Elementos Naturais
+#  EDEN — Estudo e Descoberta de Elementos Naturais
 
 O **EDEN** (*Estudo e Descoberta de Elementos Naturais*) é uma proposta de projeto para o desenvolvimento de um simulador *sandbox* de química interativo que une a **Godot Engine** com **Python** e **PyTorch**.
 
@@ -6,7 +6,7 @@ A ideia é criar um ambiente inteligente em 2D/3D onde o usuário possa interagi
 
 ---
 
-## 📌 Ideia do Projeto
+##  Ideia do Projeto
 
 * **Simulação Sandbox Interativa:** Espaço livre na Godot Engine para o usuário manipular recipientes e misturar substâncias.
 * **Inteligência no Backend:** Uso de Python e PyTorch para calcular reações, prever comportamentos de misturas e gerenciar as propriedades dos compostos.
@@ -15,7 +15,7 @@ A ideia é criar um ambiente inteligente em 2D/3D onde o usuário possa interagi
 
 ---
 
-## 🛠️ Tecnologias Planejadas
+##  Tecnologias Planejadas
 
 * **Interface e Frontend (Jogo):** Godot Engine 4.x (`GDScript`)
 * **Lógica e Inteligência (Backend):** Python 3.10+
@@ -24,7 +24,7 @@ A ideia é criar um ambiente inteligente em 2D/3D onde o usuário possa interagi
 
 ---
 
-## 🧭 Ideias de Recursos Futuros (Roadmap)
+##  Ideias de Recursos Futuros (Roadmap)
 
 - [ ] Criar a bancada principal do laboratório na Godot Engine.
 - [ ] Implementar a mecânica de arrastar e soltar (Drag and Drop) para os recipientes.
